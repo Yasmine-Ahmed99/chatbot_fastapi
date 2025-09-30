@@ -1,7 +1,6 @@
-````markdown
 # Chatbot API
 
-A simple FastAPI-based chatbot backend with rule-based and GPT-2-powered responses, user authentication (JWT), and chat history storage using SQLite and SQLAlchemy.
+A FastAPI-based chatbot backend supporting both rule-based and GPT-2-powered responses, user authentication (JWT), and chat history storage using SQLite and SQLAlchemy.
 
 ---
 
@@ -30,8 +29,7 @@ A simple FastAPI-based chatbot backend with rule-based and GPT-2-powered respons
    ```sh
    git clone <your-repo-url>
    cd chatbot-api
-````
-
+   
 2. **Create and activate a virtual environment:**
 
    ```sh
