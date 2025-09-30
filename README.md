@@ -29,7 +29,7 @@ A FastAPI-based chatbot backend supporting both rule-based and GPT-2-powered res
    ```sh
    git clone <your-repo-url>
    cd chatbot-api
-   
+
 2. **Create and activate a virtual environment:**
 
    ```sh
@@ -192,11 +192,6 @@ chatbot-api/
 
 ---
 
-## License
-
-MIT (or specify your license)
-
----
 
 ## Credits
 
